@@ -1,0 +1,71 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyBroadExceptionInspection" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
+    <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredPackages">
+        <value>
+          <list size="22">
+            <item index="0" class="java.lang.String" itemvalue="dateutil" />
+            <item index="1" class="java.lang.String" itemvalue="sqlite3" />
+            <item index="2" class="java.lang.String" itemvalue="yaml" />
+            <item index="3" class="java.lang.String" itemvalue="jihasku" />
+            <item index="4" class="java.lang.String" itemvalue="features" />
+            <item index="5" class="java.lang.String" itemvalue="google-api-python-client" />
+            <item index="6" class="java.lang.String" itemvalue="requests-async" />
+            <item index="7" class="java.lang.String" itemvalue="logging" />
+            <item index="8" class="java.lang.String" itemvalue="requests" />
+            <item index="9" class="java.lang.String" itemvalue="discord" />
+            <item index="10" class="java.lang.String" itemvalue="async-timeout" />
+            <item index="11" class="java.lang.String" itemvalue="cse" />
+            <item index="12" class="java.lang.String" itemvalue="google-auth" />
+            <item index="13" class="java.lang.String" itemvalue="aiohttp" />
+            <item index="14" class="java.lang.String" itemvalue="psutil" />
+            <item index="15" class="java.lang.String" itemvalue="validators" />
+            <item index="16" class="java.lang.String" itemvalue="PyGithub" />
+            <item index="17" class="java.lang.String" itemvalue="asyncpraw" />
+            <item index="18" class="java.lang.String" itemvalue="asyncprawcore" />
+            <item index="19" class="java.lang.String" itemvalue="discord.py" />
+            <item index="20" class="java.lang.String" itemvalue="youtubesearchpython" />
+            <item index="21" class="java.lang.String" itemvalue="Pillow" />
+          </list>
+        </value>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyPep8Inspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <option name="ignoredErrors">
+        <list>
+          <option value="E203" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyPep8NamingInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <option name="ignoredErrors">
+        <list>
+          <option value="N813" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyShadowingBuiltinsInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <option name="ignoredNames">
+        <list>
+          <option value="id" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyTypeCheckerInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="random.choice.list" />
+          <option value="cogs.utils.Utilities.__getitem__" />
+          <option value="datetime.now" />
+          <option value="botfile.bot" />
+          <option value="botfile.*" />
+          <option value="github.Github" />
+          <option value="super.is_owner" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
