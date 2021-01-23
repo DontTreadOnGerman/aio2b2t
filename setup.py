@@ -4,7 +4,7 @@ with open("README.md", "r", encoding="utf-8") as readme:
     long_description = readme.read()
 
 setuptools.setup(
-    name="DTOG0001",
+    name="aio2b2t",
     version="1.0",
     author="DTOG",
     author_email="arstotzkanlool@gmail.com",
