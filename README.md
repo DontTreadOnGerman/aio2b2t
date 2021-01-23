@@ -2,7 +2,7 @@
 aio2b2t is a modern, async, API wrapper for [2b2t.dev](https://2b2t.dev) and [2b2t.io.](https://2b2t.io/)
 ## Documentation
 You can find documentation [here.](DOCUMENTATION.md)
-##FAQ
+## FAQ
 * Do you play on 2b2t?
 
 No.
