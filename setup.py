@@ -11,7 +11,8 @@ setuptools.setup(
     description="aio2b2t is a modern, async, API wrapper for https://2b2t.dev and https://2b2t.io.",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/DontTreadOnGerman/",
+    install_requires=['aiohttp'],
+    url="https://github.com/DontTreadOnGerman/aio2b2t",
     packages=setuptools.find_packages(),
     classifiers=[
         "Programming Language :: Python :: 3.6",
